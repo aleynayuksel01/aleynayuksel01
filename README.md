@@ -1,6 +1,5 @@
 ![MasterHead](https://w.forfun.com/fetch/52/52ec3a96c2ffd0943503b472ecf14c02.jpeg)
 <h1 align="center">Hi 👋, I'm Aleyna Yüksel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
