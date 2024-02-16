@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/489/946/desktop-wallpaper-aerial-view-of-abstract-futuristic-binary-city-a-high-high-tech-city.jpg)
+[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/898/482/desktop-wallpaper-200-beautiful-software-engineer-for-you-software-engineer.jpg)
 <h1 align="center">Hi 👋, I'm Aleyna Yüksel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
