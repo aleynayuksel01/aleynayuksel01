@@ -1,4 +1,4 @@
- [![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-fwjsy&psig=AOvVaw2MkdR6KFAayCqsHb3ngPz9&ust=1708193215092000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjnhKa6sIQDFQAAAAAdAAAAABAN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-fwjsy&psig=AOvVaw2MkdR6KFAayCqsHb3ngPz9&ust=1708193215092000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjnhKa6sIQDFQAAAAAdAAAAABAd))
+[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/489/946/desktop-wallpaper-aerial-view-of-abstract-futuristic-binary-city-a-high-high-tech-city.jpg)
 <h1 align="center">Hi 👋, I'm Aleyna Yüksel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
