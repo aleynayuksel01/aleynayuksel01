@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/898/482/desktop-wallpaper-200-beautiful-software-engineer-for-you-software-engineer.jpg)
+![MasterHead](https://w.forfun.com/fetch/52/52ec3a96c2ffd0943503b472ecf14c02.jpeg)
 <h1 align="center">Hi 👋, I'm Aleyna Yüksel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
